@@ -43,7 +43,7 @@ So I am making a simple compiler to convert this rv32I base readable instruction
 ### R-Type and I Type are working correctly
 ![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/33f272a4-5d25-48b9-a297-97202eb7b0c7)
 
-
+## R,I,S,L Br type instructions are working 
 ### MEMCOPY 
 ![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/c8ba1f37-a5ff-4e60-857a-cf49e21d6be6)
 
