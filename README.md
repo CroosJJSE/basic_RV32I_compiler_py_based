@@ -48,3 +48,7 @@ So I am making a simple compiler to convert this rv32I base readable instruction
 ![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/58f457ff-b2b9-4135-b3f1-c76f1fa983f4)
 
 
+after removed the - sign error, which happened because of immediate
+![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/3ec49531-ec5c-4606-8615-8862cebb3771)
+
+
