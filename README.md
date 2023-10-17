@@ -40,5 +40,7 @@ So I am making a simple compiler to convert this rv32I base readable instruction
 ![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/1e54064c-8a3a-450b-8d98-e9ad1ff5b6cd)
 
 ## step 2 convert it and connect to output
+### R-Type and I Type are working correctly
+![image](https://github.com/CroosJJSE/basic_RV32I_compiler_py_based/assets/141708783/33f272a4-5d25-48b9-a297-97202eb7b0c7)
 
 
